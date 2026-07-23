@@ -1,15 +1,17 @@
 🕘️更新时间,#genre#
-2026-07-21 13:40:17,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct4$订阅源
+2026-07-23 13:43:40,http://r.jdshipin.com/n90gt$订阅源
 
 📺港澳台,#genre#
-翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct4$订阅源
-翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct4$订阅源
 翡翠台,http://r.jdshipin.com/n90gt$订阅源
 翡翠台,http://r.jdshipin.com/n90gt$订阅源
+翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct4$订阅源
+翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct4$订阅源
 
 📺广东,#genre#
-广东体育,http://php.jdshipin.com/PLTV/iptv.php?id=gdty$订阅源
 广东体育,http://r.jdshipin.com/LiYdg$订阅源
+广东体育,http://php.jdshipin.com/PLTV/iptv.php?id=gdty$订阅源
+广东体育,https://cdn.qd.je/163189/gdty$订阅源
+广东体育,https://cdn.qd.je/163189/gdty$订阅源
 大湾区卫视,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010108$订阅源
 广东卫视,http://php.jdshipin.com:8880/TVOD/gsyd.php?id=9900000520$订阅源
 
@@ -26,6 +28,8 @@ CCTV-4,https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8$订阅源
 CCTV-4,https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8$订阅源
 CCTV-5,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226019$订阅源
 CCTV-5,https://www.freetv.top/migu/641886683.m3u8?migutoken=3e5c01f93922de8d1c940fe15bb47349b27e8f7a2e624dde1a83dff3b2a80f58b7624151a3a4d00488edee34f202818557340903382fae02bb754084eb942bd50e59061df36fab62fb5b908903$订阅源
+CCTV-5,https://live.chinacert.cftest5.cn/cnmg/live/641886683$订阅源
+CCTV-5,https://live.chinacert.cftest5.cn/cnmg/live/641886683$订阅源
 CCTV-5+,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225603$订阅源
 CCTV-5+,https://www.freetv.top/migu/641886773.m3u8?migutoken=03a1b82e35e58cd89a95034ecb29e77e50493397000ec2b1e4d1ce59af01e6420d6dbc068c8230ec03be3a35a20eed8714e0959e3570a08713a7a2e8d86085eabf8f1aa85744c80c38343988b2$订阅源
 CCTV-6,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226010$订阅源
