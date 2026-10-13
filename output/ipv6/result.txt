@@ -1,14 +1,11 @@
 🕘️更新时间,#genre#
-2026-10-11 17:14:37,http://r.jdshipin.com/n90gt$订阅源
+2026-10-13 17:43:40,http://php.jdshipin.com/TVOD/iptv.php?id=huali$订阅源
 
 📺港澳台,#genre#
-翡翠台,http://r.jdshipin.com/n90gt$订阅源
-翡翠台,http://r.jdshipin.com/n90gt$订阅源
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=huali$订阅源
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=huali$订阅源
 
 📺广东,#genre#
-广东体育,http://r.jdshipin.com/LiYdg$订阅源
 广东体育,https://cdn.qd.je/163189/gdty$订阅源
 广东体育,https://cdn.qd.je/163189/gdty$订阅源
 广东体育,http://php.jdshipin.com/PLTV/iptv.php?id=gdty$订阅源
