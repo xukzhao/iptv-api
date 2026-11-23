@@ -1,7 +1,10 @@
 🕘️更新时间,#genre#
-2026-11-21 18:06:55,http://php.jdshipin.com/TVOD/iptv.php?id=huali$订阅源
+2026-11-23 19:07:10,http://cc.123.rr.kg/163189/fhzw$订阅源
 
 📺港澳台,#genre#
+凤凰中文,http://cc.123.rr.kg/163189/fhzw$订阅源
+凤凰中文,http://cc.123.rr.kg/163189/fhzw$订阅源
+凤凰资讯,http://cc.123.rr.kg/163189/fhzx$订阅源
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=huali$订阅源
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=huali$订阅源
 翡翠台,http://r.jdshipin.com/GeWKr$订阅源
